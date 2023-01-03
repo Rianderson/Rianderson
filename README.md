@@ -3,10 +3,9 @@
 
 Resuminho rápido sobre mim:
 
-- 🔭 Estou trabalhando na área do comércio, varejo...
 - 🌱 Atualmente, me aprofundando em HMTL & CSS e Javascript..
 - 📩 contate-me neste e-mail: rianderson.manrrique0@gmail.com
-- 👺 Ando me dedicando bastante para conseguir a minha primeira oportunidade com Dev Front end..
+- 👺 Ando me dedicando bastante para conseguir a minha primeira oportunidade como Dev Front end..
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: Amo ouvir música e meus gatos, tenho 5 💕.
 
