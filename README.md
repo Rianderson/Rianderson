@@ -35,5 +35,4 @@ Resuminho rápido sobre mim:
 <a href= "https://www.linkedin.com/in/rianderson-manrrique-9553231ba" />
 <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 
-<a href = "https://dev.to/rianderson" />
-<img src= https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white />
+
